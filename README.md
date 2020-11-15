@@ -1,4 +1,4 @@
-# Good_ReadMe_Generator
+# Good ReadMe Generator
 HW 7 - Good ReadMe Generator
 # Description
 The objective of this program is to be able to create a command line application that in turn create a professional-grade ReadMe files.
