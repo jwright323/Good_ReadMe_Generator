@@ -19,9 +19,14 @@ The objective of this program is to be able to create a command line application
 * THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 * WHEN I click on the links in the Table of Contents
 * THEN I am taken to the corresponding section of the README
-# Tools Used
 
-# Website Link
+# Tools Used
+* Javascript
+* node.js
+* Visual Studio Code
+* GitHub API
+
+# Repo Link
 https://jwright323.github.io/Good_ReadMe_Generator/
 
 
