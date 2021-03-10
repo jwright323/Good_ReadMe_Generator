@@ -161,7 +161,7 @@ async function init() {
 
     } catch (error) {
         console.log(error)
-        console.log("The readme file was not created.");
+        console.log("Your ReadMe file was not created.");
     }
 };
 
